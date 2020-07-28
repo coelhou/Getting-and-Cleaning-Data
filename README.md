@@ -1,4 +1,4 @@
-# Getting-and-Cleaning-Data
+# Getting and Cleaning-Data
 In this project, we are dealing with the data available at the Human Activity Recognition database which is built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.  
 
 Each person performed six activities (`WALKING`, `WALKING UPSTAIRS`, `WALKING DOWNSTAIRS`, `SITTING`, `STANDING`, `LAYING`) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz are captured. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data.  
